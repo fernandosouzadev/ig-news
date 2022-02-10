@@ -9,3 +9,5 @@ export const prismic = Prismic.createClient(endpoint, {
 
   accessToken: process.env.PRISMIC_ACESS_TOKEN
 })
+
+
