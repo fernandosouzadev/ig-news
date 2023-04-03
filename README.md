@@ -75,3 +75,6 @@ $ stripe listen --forward-to localhost:3000/api/webhooks
 $ yarn dev
 
 ```
+
+<p align="center">Made with 💜 by Fernando Souza</p>
+
